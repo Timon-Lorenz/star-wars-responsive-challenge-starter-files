@@ -1,0 +1,39 @@
+body {
+    font-family: Roboto;
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    background-color: orange;
+    margin-bottom: 40px;
+}
+
+.row>h1,
+.row>p {
+    margin-bottom: -8px;
+}
+
+img {
+    width: 100%;
+}
+
+.ray,
+.finn,
+.kylo,
+.poe,
+.chew,
+.yoda {
+    border: 1px solid rgb(224, 224, 224);
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.content>p,
+.content>h3 {
+    margin: 8px;
+}
+
+.content {
+    padding: 20px;
+}
